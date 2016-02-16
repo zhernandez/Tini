@@ -1,0 +1,83 @@
+/* Inserte su codigo aqui */
+*{
+	font-family: Helvetica;
+}
+header{
+	background: url(../image/classic.gif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width:100%;
+    height:600px;
+}
+.may{
+	text-transform: uppercase;
+}
+.menu{
+	float: right;
+	margin:20px 40px;
+}
+.btn{
+	background-color: rgba(255,255,255,0.3);
+	width: 110px;
+	padding: 10px 20px;
+    border-radius: 10px;
+}
+.color{
+	color: #fff;
+}
+.centro{
+	text-align: center
+}
+h2{
+	margin-top: 100px;
+}
+section{
+	background-color: #ddd;
+}
+.cartel{
+	background: #fff;
+	width: 400px;
+	padding-bottom: 10px;
+	margin-bottom: 50px
+}
+.top{
+	margin-top:100px;
+}
+.cuadro{
+	margin:20px 50px;
+	width: 300px;
+	height: 300px;
+}
+h3{
+	margin:10px;
+}
+p{
+	margin:5px 15px;
+}
+.push{
+	background:#ccc;
+	padding: 10px;
+	margin: 10px 150px; 
+}
+footer{
+	background: #333;
+}
+.barra{
+	margin-top: 30px;
+	margin-bottom: 20px
+}
+.lineal{
+	display: inline-block;
+}
+.icono{
+	width:15px;
+	height:15px;
+}
+.azul{
+	color: #33bbee
+}
+.caja{
+	border-right: solid #fff 2px;
+}
